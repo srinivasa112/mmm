@@ -1,0 +1,24 @@
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\bin\Debug\net6.0\Entities.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\bin\Debug\net6.0\Entities.pdb
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\Entities.pdb
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -1,0 +1,30 @@
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\bin\Debug\net6.0\Entities.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+D:\New folder\AspNetCore-Harsha-main\14. xUnit\26. Delete Person - Implementation\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
