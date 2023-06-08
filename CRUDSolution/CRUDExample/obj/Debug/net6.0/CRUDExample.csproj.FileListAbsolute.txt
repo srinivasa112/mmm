@@ -1,0 +1,122 @@
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\appsettings.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\CRUDExample.staticwebassets.runtime.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\CRUDExample.exe
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\CRUDExample.deps.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\CRUDExample.runtimeconfig.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\CRUDExample.dll
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\CRUDExample.pdb
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\Entities.dll
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\ServiceContracts.dll
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\Services.dll
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\Entities.pdb
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\ServiceContracts.pdb
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\bin\Debug\net6.0\Services.pdb
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.AssemblyReference.cache
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfoInputs.cache
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfo.cs
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CoreCompileInputs.cache
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cache
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cs
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUDExample.props
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUDExample.props
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUDExample.props
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\scopedcss\bundle\CRUDExample.styles.css
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CopyComplete
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.dll
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\refint\CRUDExample.dll
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.pdb
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\CRUDExample.genruntimeconfig.cache
+D:\New folder\AspNetCore-Harsha-main\16. Tag Helpers\08. Delete View\CRUDExample\obj\Debug\net6.0\ref\CRUDExample.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\appsettings.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\CRUDExample.staticwebassets.runtime.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\CRUDExample.exe
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\CRUDExample.deps.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\CRUDExample.runtimeconfig.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\CRUDExample.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\CRUDExample.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Entities.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Services.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Entities.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Services.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.AssemblyReference.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfoInputs.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfo.cs
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cs
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUDExample.props
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUDExample.props
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUDExample.props
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\scopedcss\bundle\CRUDExample.styles.css
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CopyComplete
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\refint\CRUDExample.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.pdb
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.genruntimeconfig.cache
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\obj\Debug\net6.0\ref\CRUDExample.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\countries.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\persons.json
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADITYA\Downloads\asp.net core\CRUDSolution\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
